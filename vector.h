@@ -3,7 +3,7 @@ typedef struct vec{
     float x,y,z,w;
 }vector;
 
-void printVector(vector v);
+void printVector(vector v,char* s);
 
 vector add(vector v1, vector v2);
 
