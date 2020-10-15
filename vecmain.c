@@ -16,5 +16,5 @@ int main(){
     // printVector(difference(va,vb),"Difference");
     
     // printf("Dot product of the given vectors: %f\n",dot_product(va,vb));
-    // printf("Angle between the given vectors: %f\n",angle(v1,v2));
+    // printf("Angle between the given vectors: %f\n",angle(va,vb));
 }
