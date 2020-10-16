@@ -1,5 +1,3 @@
-#include "vector.h"
-
 vector add(vector v1,vector v2){
 	vector res;
 	

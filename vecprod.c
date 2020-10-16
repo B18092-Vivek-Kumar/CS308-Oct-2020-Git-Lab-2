@@ -1,5 +1,3 @@
-#include "vector.h"
-
 
 // element-wise product of two vectors
 vector product(vector a, vector b){

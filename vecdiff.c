@@ -1,6 +1,4 @@
-#include "vector.h"
-
-vector add(vector v1,vector v2){
+vector difference(vector v1,vector v2){
 	vector res;
 	
 	res.x=v1.x-v2.x;

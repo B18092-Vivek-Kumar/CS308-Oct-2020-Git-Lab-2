@@ -1,5 +1,3 @@
-#include "vector.h"
-
 float dot_product(vector v1,vector v2){
 	float res;
 	

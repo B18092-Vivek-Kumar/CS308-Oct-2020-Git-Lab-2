@@ -11,6 +11,8 @@ vector product(vector v1, vector v2);
 
 vector difference(vector v1, vector v2);
 
+float norm(vector v1, vector v2);
+
 float dot_product(vector v1, vector v2);
 
 float angle(vector v1, vector v2);
