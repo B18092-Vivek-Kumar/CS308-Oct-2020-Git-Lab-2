@@ -20,7 +20,7 @@ int main(){
     printVector(product(va,vb),"Element wise Product");
     printVector(difference(va,vb),"Difference");
     
-    printf("Norm of the given vecotr: %f\n", norm(va,vb));
+    printf("Norm of the given vectors: %f\n", norm(va,vb));
     printf("Dot product of the given vectors: %f\n",dot_product(va,vb));
     // printf("Angle between the given vectors: %f\n",angle(va,vb));
 }
